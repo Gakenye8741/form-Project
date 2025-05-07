@@ -52,6 +52,7 @@ header h3{
     font-family: "Chewy", system-ui;
   font-weight: 400;
   font-style: normal;
+    color: yellow;
 }
 form{
     padding: 10px 10px;
